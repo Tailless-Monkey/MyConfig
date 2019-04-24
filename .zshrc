@@ -9,6 +9,7 @@
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 # ZSH_THEME="clean"
 ZSH_THEME="jonathan"
+# ZSH_THEME="agnoster"   #何不试试这个，安装powerline
 # ZSH_THEME='random'
 #
 # Uncomment the following line to use case-sensitive completion.
